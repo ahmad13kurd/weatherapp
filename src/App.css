@@ -12,7 +12,7 @@ body{
 }
 .container{
     background-color: rgb(138, 132, 132);
-    height: 70vh;
+    height: auto;
     padding: 100px;
     margin: auto;
     width: 800px;
